@@ -9,8 +9,10 @@ int main() {
 
 	if(a>b && a>c)
 	cout<<a;
+	
 	if(b>c && b>a)
 	cout<<b;
+	
 	if(c>b && c>b)
 	cout<<c;
 	
