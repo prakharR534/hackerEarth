@@ -6,7 +6,9 @@ bool  is_int(string val) {
         if(val[i] < '0' || val[i] > '9') return false; 
     }
     return true;
+    
 }
+
 void borer(int A[], int len) {
     cout<<"+";
     for(int i = 0; i < len; i++) {
