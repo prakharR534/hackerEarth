@@ -9,7 +9,9 @@ int main() {
 	cin >> num;										// Reading input from STDIN
 	
 	for(int i=1;i<11;i++){
+		
 		cout<<num*i<<endl;
+		
 	}		// Writing output to STDOUT
 }
 
