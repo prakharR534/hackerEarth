@@ -6,6 +6,7 @@ using namespace std;
 
 int main() {
 	int num;
+	
 	cin >> num;										// Reading input from STDIN
 	
 	while(num--){
