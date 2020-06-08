@@ -7,7 +7,8 @@ int main() {
 	int n,l;
 	cin >> n>>l;
 	
-	if(n <= 23 && l <= 1000)	
+	if(n <= 23 && l <= 1000)
+		
 	cout<<"Take Medicine"<<endl;
 	
 	else 
